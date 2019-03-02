@@ -20,7 +20,7 @@ function sayMyName() {
   var name = "Cricky";
 
   sayMy();
-  
+
   function sayMy() {
     var name = "Kristin";
     console.log(name);
